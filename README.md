@@ -9,7 +9,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HabacuqueCL&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabacuqueCL&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width:45px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width:45px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="width:45px" />
@@ -23,8 +23,8 @@
 
 ##
 
-<div>
-  <a href="mailto:habacuque.cavalcante@gmail.com" target="_blank">
+<div align="center">
+  <a href="mailto:habacuque.cavalcante@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/habacuque-cavalcante-a0930ba9/">
@@ -33,4 +33,7 @@
   <a href="https://discord.gg/6vGnUrGs">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+</div>
+<div align="center">
+  <img src="https://media.tenor.com/dVSSjCSzh54AAAAC/brad-pitt-coffee.gif" width="300px"/>
 </div>
