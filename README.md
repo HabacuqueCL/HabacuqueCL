@@ -24,7 +24,7 @@
 ##
 
 <div>
-  <a href="https://dev.to/envoy_/150-badges-for-github-pnk" target="_blank">
+  <a href="mailto:habacuque.cavalcante@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/habacuque-cavalcante-a0930ba9/">
